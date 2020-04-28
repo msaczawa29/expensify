@@ -29,7 +29,7 @@ const ExpenseListFilters = (props) => (
 
 const mapStateToProps = (state) => {
   return {
-    filters: state.filters,
+    filters: state.filters
   };
 };
 
