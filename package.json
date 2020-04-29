@@ -20,6 +20,7 @@
     "babel-loader": "^8.0.0",
     "babel-plugin-transform-object-rest-spread": "6.23.0",
     "css-loader": "0.28.4",
+    "express": "4.15.4",
     "live-server": "^1.2.0",
     "mini-css-extract-plugin": "^0.9.0",
     "moment": "2.18.1",
