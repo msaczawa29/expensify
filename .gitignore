@@ -1,9 +1,7 @@
 node_modules
 src/playground/mojakopiazapasowa
-public/bundle.js
-public/bundle.js.map
-public/styles
-public/styles.css.map
+public/dist
 
 
 
+.
